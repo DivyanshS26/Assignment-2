@@ -1,0 +1,17 @@
+div{
+    color: white;
+    background-color: #e8e8e4;
+    border-top: 2px solid #d8e2dc;
+    border-bottom: 2px solid #d8e2dc;
+    font-size: 30px;
+    margin: 20px;
+    position: sticky;
+    top: 0px;
+}
+
+li{
+    border-bottom: 1px Solid #d8e2dc;
+    list-style-type: "\260e";
+    font-weight: bold;
+    padding: 20px ;
+}
